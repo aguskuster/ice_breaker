@@ -1,5 +1,5 @@
 
-# ice_breaker
+# ice_breaker2
 
 A repository for learning LangChain by building a generative ai application.
 
